@@ -1,0 +1,17 @@
+{
+  "completed_models": [
+    "DistilBERT",
+    "MiniLM",
+    "MobileBERT",
+    "ModernBERT",
+    "Proposed"
+  ],
+  "failures": {},
+  "improvement": {
+    "best_baseline": "ModernBERT",
+    "best_baseline_f1": 0.8682147553575347,
+    "proposed_f1": 0.8743436002523147,
+    "absolute_gain": 0.00612884489478005,
+    "relative_gain_percent": 0.705913468639008
+  }
+}
