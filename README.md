@@ -2,7 +2,7 @@
 
 ## Setup
 
-pip install -r requirements.txt
+pip install -r requirements.txt </br>
 python -m spacy download en\_core\_web\_sm
 
 ## Data
